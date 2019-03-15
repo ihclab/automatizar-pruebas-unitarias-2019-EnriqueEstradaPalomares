@@ -14,9 +14,9 @@ namespace AutomatizarPruebasUnitarias {
         public static double mediaAritmetica(params int[] vals) { }
 
         /**
-         * Calcula y regresa la raíz enésima = x^(1/n)
+         * Calcula y regresa la raíz enésima = x^(1/n) ola señor locutor, si me hace el favor
          */
-        private static double raizEnesima(double x, int n) { }
+        private static double raizEnesima(double x, int n) { } //sdsdfsdfdsf
 
         /**
          *  Usa raizEnesima para calcular y regresar la media geométrica
