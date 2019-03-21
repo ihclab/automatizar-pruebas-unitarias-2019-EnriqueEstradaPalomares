@@ -1,7 +1,0 @@
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\bin\Debug\pruebasUnitarias.exe.config
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\bin\Debug\pruebasUnitarias.exe
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\bin\Debug\pruebasUnitarias.pdb
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\obj\Debug\pruebasUnitarias.csprojAssemblyReference.cache
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\obj\Debug\pruebasUnitarias.csproj.CoreCompileInputs.cache
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\obj\Debug\pruebasUnitarias.exe
-C:\Users\enriq_000\Desktop\pruebasUnitarias\pruebasUnitarias\obj\Debug\pruebasUnitarias.pdb
