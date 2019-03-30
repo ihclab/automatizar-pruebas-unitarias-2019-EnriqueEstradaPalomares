@@ -23,5 +23,26 @@ namespace pruebasUnitarias
         {
             return Math.Pow(x, (1 / Convert.ToDouble(n)));
         }
+
+        public double mediaGeometrica(params int[] vals)
+        {
+            int mult = 1;
+            for (int i = 0; i < vals.Length; i++)
+            {
+                mult *= vals[i];
+            }
+            return (double)raizEnesima(mult, vals.Length);
+        }
+
+        public static double mediaArmonica(params int[] vals)
+        {
+            double sum = 0;
+            for (int i = 0; i < vals.Length; i++)
+            {
+                sum += 1 / Convert.ToDouble(vals[i]);
+            }
+            return vals.Length / sum;
+        }
     }
+    
 }
